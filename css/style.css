@@ -1,0 +1,58 @@
+/*****************************Page**********************************/
+
+
+@font-face {
+   }
+
+* {
+    font-family: sans-serif;
+    font-style: normal;
+    font-variant: normal;
+}
+#block-projet {
+}
+t
+h1 {
+    font-size: 3em;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+    color: #2B0A3D;
+}
+
+h3 {
+    font-size: 1.5ex;
+    font-weight: 700;
+    line-height: 15.4px;
+    color: #2B0A3D;
+}
+
+p {
+    font-size: 100%;
+    font-weight: 400;
+    line-height: 20px;
+    color: #2B0A3D;
+}
+
+blockquote {
+
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #2B0A3D;
+}
+
+pre {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 18.5714px;
+    color: #2B0A3D;
+}
+
+a {
+    color: white;
+}
+
+
+
+
