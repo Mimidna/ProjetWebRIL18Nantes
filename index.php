@@ -8,15 +8,7 @@
 include "/include/header.php"
 ?>
 =======
-<?php
-include "include/header.php";
-?>
 
-
-<body >
-   
-    <!--HEADER-->
->>>>>>> 62187e46a02e1e77a1afe37faab0fe91008cc442
 
 <body >
 
@@ -195,14 +187,13 @@ include "include/header.php";
 </div>
 
 
-<<<<<<< HEAD
-=======
-	<!--CONTENU-->
-   
->>>>>>> 62187e46a02e1e77a1afe37faab0fe91008cc442
+
 
     <!--FOOTER-->
-
+	
+  <?php
+include "include/footer.php";
+?>
 
 
 
