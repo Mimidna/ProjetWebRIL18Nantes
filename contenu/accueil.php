@@ -23,7 +23,7 @@
 			<h1> Parcourez notre selection </h1>
 		</div>
 
-	<div class="container-fluid">
+	<div class="container-fluid carouselAcceuil">
 		<div class="row">
 			<div class="col-md-12">
 				<div class="carousel slide" id="carousel-7837">

@@ -56,7 +56,7 @@ a {
 }
 
 /*************Accueil*************************/
-.container-fluid{
+.carouselAcceuil {
     height: 300px;
     width: 1000px;
 }
@@ -99,7 +99,8 @@ a {
 #footer-entire {
     background-color: #ececec;
     position: initial;
-    color: #12B3DB
+    color: #12B3DB;
+    margin-top:10%;
 }
 
 .items-social-links li {
