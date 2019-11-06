@@ -5,7 +5,7 @@
    }
 
 * {
-    font-family: 'Montserrat', !important,sans-serif;
+    font-family: Montserrat,sans-serif;
     font-style: normal;
     font-variant: normal;
 }
@@ -71,3 +71,31 @@ a {
 /*************Merci*************************/
 
 /*************Footer*************************/
+#footer-entire {
+    background-color: #ececec;
+    position: initial;
+    color: #12B3DB
+}
+
+.items-social-links li {
+    padding: 1%;
+    display: inline-block;
+    }
+
+.items-social-links img {
+    max-width: 30px;
+}
+
+#footer-entire p  {
+    color: #12B3DB;
+    
+    
+}
+#voltik-logo {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 200px;
+    vertical-align: middle;
+   
+}
+
