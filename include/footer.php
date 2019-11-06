@@ -13,17 +13,17 @@
             <li>44000 Nantes</li>
           </ul>
          <ul class="items-social-links list-unstyled">
-            <li><a href="#"><img src="images/logos/fb.png"></a></li>
-            <li><a href="#"><img src="images/logos/in.png"></a></li>
-            <li><a href="#"><img src="images/logos/no.png"></a></li>
-            <li><a href="#"><img src="images/logos/twitter.png"></a></li>
-            <li><a href="#"><img src="images/logos/yt.png"></a></li>
+            <li><a href="#"><img src="css/logos/fb.png"></a></li>
+            <li><a href="#"><img src="css/logos/in.png"></a></li>
+            <li><a href="#"><img src="css/logos/no.png"></a></li>
+            <li><a href="#"><img src="css/logos/twitter.png"></a></li>
+            <li><a href="#"><img src="css/logos/yt.png"></a></li>
           </ul>
         </div>
   
         <div class="col-md mb-md-0 mb-3">
              
-				<img src="images/logos/logo.png" id="sogeti-logo" alt="Voltik"/>
+				<img src="css/logos/logo2.png" id="voltik-logo" alt="Voltik"/>
              
         </div>
       </div>
@@ -31,6 +31,6 @@
   
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">
-        <p>All rights reserved by Voltik. Copyright © 2019</p>     
+        All rights reserved by Voltik. Copyright © 2019     
     </div>
   </footer>;
