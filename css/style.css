@@ -5,13 +5,11 @@
    }
 
 * {
-    font-family: sans-serif;
+    font-family: 'Montserrat', !important,sans-serif;
     font-style: normal;
     font-variant: normal;
 }
-#block-projet {
-}
-t
+
 h1 {
     font-size: 3em;
     font-variant: normal;
@@ -28,34 +26,48 @@ h3 {
 }
 
 p {
-    font-size: 100%;
+    font-size: 2em;
     font-weight: 400;
     line-height: 20px;
     color: #2B0A3D;
-    font-family: 'Montserrat', !important;
+ 
 }
 
-blockquote {
-
-    font-size: 21px;
-    font-weight: 400;
-    line-height: 30px;
-    color: #2B0A3D;
-}
-
-.carousel-caption h4 {font-family: 'Montserrat';}
-
-pre {
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 18.5714px;
-    color: #2B0A3D;
-}
 
 a {
     color: white;
 }
 
+/***********************EnTete******************/
 
 
 
+
+
+
+/************************NavBar********************/
+
+
+/*************Accueil*************************/
+
+
+/*************Voiture*************************/
+
+
+/*************Finition*************************/
+
+
+/*************Option*************************/
+
+/*************Devis*************************/
+
+
+/*************Creation*************************/
+
+/*************Connexion*************************/
+
+/*************Compte*************************/
+
+/*************Merci*************************/
+
+/*************Footer*************************/
