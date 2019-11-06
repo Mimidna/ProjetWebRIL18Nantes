@@ -23,7 +23,7 @@ include "include/header.php";
 
 
 <!--CONTENU-->
-
+ 
 
 
 
@@ -42,11 +42,7 @@ include "include/header.php";
 
     <script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/bootstrap-4.3.1.min.js"></script>
-    <script src="js/carousel.js"></script>
 
-    <!-- WEBSITE JAVASCRIPT -->
-    <script src="js/headers/mainNav.js"></script>
-    <script src="js/footers/footer.js"></script>
 
 
 
