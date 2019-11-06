@@ -32,6 +32,7 @@ p {
     font-weight: 400;
     line-height: 20px;
     color: #2B0A3D;
+    font-family: 'Montserrat', !important;
 }
 
 blockquote {
@@ -41,6 +42,8 @@ blockquote {
     line-height: 30px;
     color: #2B0A3D;
 }
+
+.carousel-caption h4 {font-family: 'Montserrat';}
 
 pre {
     font-size: 13px;
