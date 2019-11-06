@@ -1,40 +1,91 @@
-﻿<!DOCTYPE html>
-<html lang="en">
+﻿ <!-- Page Content -->
+    <div class="container">
 
-<head>
+        <!-- Page Heading/Breadcrumbs -->
+        <div class="creation">
+            <strong>Création Fiche Client </strong>
 
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
+        </div>
 
-  <title>Voltik</title>
+        <!-- Contact Form -->
+        <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
+        <div class="jumbotron" id="contact_us">
+            <div class="row">
+                <div class="col-xs-12 col-ms-12 col-lg-8 mb-4">
+                    
+                   
+                    <form name="sentMessage" id="contactForm" novalidate>
+                        <div class="control-group form-group">
+                            <div class="controls">
+                               
+                                <input type="text" class="form-control" id="name" required placeholder= "Nom"
+                                       data-validation-required-message="Merci d'entrer votre nom">
+                                <p class="help-block"></p>
+                            </div>
+                        </div>
+						<div class="control-group form-group">
+                            <div class="controls">
+                                
+                                <input type="text" class="form-control" id="name"required placeholder= "Prénom"
+                                       data-validation-required-message="Merci d'entrer votre prénom">
+                                <p class="help-block"></p>
+                            </div>
+                        </div>
+                        <div class="control-group form-group">
+                            <div class="controls">
+                               
+                                <input type="tel" class="form-control" id="phone" required placeholder= "Téléphone"
+                                       data-validation-required-message="Merci d'entrer votre numéro de téléphone">
+                            </div>
+                        </div>
+                        <div class="control-group form-group">
+                            <div class="controls">
+                                
+                                <input type="email" class="form-control" id="email" required placeholder= "Mail"
+                                       data-validation-required-message="Merci d'entrer votre mail">
+                            </div>
+                        </div>
+						<div class="control-group form-group">
+                            <div class="controls">
+                                
+                                <input type="adresse" class="form-control" id="adresse" required placeholder= "Adresse"
+                                       data-validation-required-message="Merci d'entrer votre adresse">
+                            </div>
+                        </div>
+						<div class="control-group form-group">
+                            <div class="controls">
+                                
+                                <input type="cp" class="form-control" id="cp" required placeholder= "Code Postal"
+                                       data-validation-required-message="Merci d'entrer votre code postal">
+                            </div>
+                        </div>
+						<div class="control-group form-group">
+                            <div class="controls">
+                                
+                                <input type="ville" class="form-control" id="ville" placeholder= "Ville" required 
+                                       data-validation-required-message="Merci d'entrer votre ville">
+                            </div>
+                        </div>
+						<div class="control-group form-group">
+                            <div class="controls">
+                                
+                                <input type="password" class="form-control" id="mdp" placeholder= "Mot de Passe" required 
+                                       data-validation-required-message="Merci d'entrer votre mot de passe">
+                            </div>
+                        </div>
+                        
 
-  <!--BOOSTRAP-->
-  <link rel="stylesheet" type="text/css" href="css/bootstrap4.3.1.css" />
-
-  <!--CSS-->
-  <link rel="stylesheet" type="text/css" href="css/style.css" />
-  <link rel="stylesheet" type="text/css" href="css/mediaqueries.css" />
 
 
-</head>
 
-<body>
+                        <div id="success"></div>
+                        <!-- For success/fail messages -->
+                        <button type="submit" class="btn btn-primary" id="sendMessageButton">C'est parti !</button>
+                    </form>
+                </div>
 
-    <!--HEADER-->
-   
-    <!-- FIN DU HEADER-->
-    <!-- Page Content -->
-   
-    <!--SCRIPTS-->
-    <script src="js/jquery-3.4.1.min.js"></script>
-    <script src="js/bootstrap-4.3.1.min.js"></script>
-    <script src="js/carousel.js"></script>
-    <!-- WEBSITE JAVASCRIPT -->
-    <script src="js/headers/mainNav.js"></script>
-    <script src="js/footers/footer.js"></script>
-
-</body>
-
-</html>
+            </div>
+            <!-- /.row -->
+        </div>
+    </div>
+    <!-- /.container -->
