@@ -20,11 +20,7 @@ include "include/header.php";
 		<div class="col-md-12">
 			<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
 
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-					<span class="navbar-toggler-icon"></span>
-				</button> <a class="navbar-brand" href="#">
-				<img src="css/logos/logo.png" alt>
-				</a>
+
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="navbar-nav">
 						<li class="nav-item active">
@@ -42,6 +38,11 @@ include "include/header.php";
 							</div>
 						</li>
 					</ul>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="navbar-toggler-icon"></span>
+				</button> <a class="navbar-brand" href="#">
+					<img src="css/logos/logo.png" alt>
+				</a>
 					<ul class="navbar-nav ml-md-auto">
 						<li class="nav-item active">
 							 <a class="nav-link" href="#">Link <span class="sr-only">(current)</span></a>
