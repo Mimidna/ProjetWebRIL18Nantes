@@ -93,7 +93,18 @@ img {
 
 
 /*************Option*************************/
+.petitsCaracteres{
+    font-size: 50%;
+    font-weight: 400;
+    line-height: 10px;
+    color: grey;
+    text-align: right;
+}
 
+.titre{
+    background-color: #ececec;
+    text-align: center;
+}
 /*************Devis*************************/
 
 
@@ -104,6 +115,26 @@ img {
     
 }
 /*************Connexion*************************/
+.formulaireConnexion{
+    height: 150px;
+    background-color: #ececec;
+    margin: auto;
+    padding: 10px;
+
+}
+
+
+.champCheckbox{
+    background-color: #ececec;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+
+}
+
+.boutonValider{
+    margin: auto;
+}
 /*************Compte*************************/
 .fleche{
     margin-top:10%;
