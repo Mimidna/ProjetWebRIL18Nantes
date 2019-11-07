@@ -49,11 +49,27 @@ a {
 
 
 /************************NavBar********************/
-.bg-light {
+.bg-nico {
     background-color: #ececec !important;
     font-family: 'Lexend Peta', sans-serif !important;
 
 }
+
+.lien-nico {
+    text-decoration: underline;
+    margin-right: 3px;
+}
+
+
+
+
+img {
+    position: absolute !important;
+    top: 9px !important;
+    left: 50% !important;
+    margin-left: -112.5px !important;
+}
+
 
 /*************Accueil*************************/
 .Accueil-Carousel {
