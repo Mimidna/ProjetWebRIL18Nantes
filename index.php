@@ -63,7 +63,7 @@ include "include/header.php";
 <!--CONTENU-->
 
  <?php
-	include "contenu/acceuil.php";
+	include "contenu/accueil.php";
 	?>
 
 
