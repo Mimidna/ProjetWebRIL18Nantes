@@ -12,10 +12,6 @@ include "include/header.php";
 
 <body >
 
-<!--ENTETE-->
-
-
-
 
 <!--NAVBAR-->
 
@@ -68,7 +64,9 @@ include "include/header.php";
 
 <!--CONTENU-->
  
-
+ <?php
+	include "contenu/accueil.php";
+	?>
 
 
 

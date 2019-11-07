@@ -1,4 +1,3 @@
-<!-- Footer -->
   <footer class="page-footer font-small pt-4" id="footer-entire">
   
     <div class="container-fluid text-center text-md-center">
