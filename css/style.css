@@ -108,6 +108,30 @@ img {
 }
 /*************Connexion*************************/
 /*************Compte*************************/
+.fleche{
+    margin-top:10%;
+}
+.compte-page {
+    margin-top: 10%;
+}
+
+.compte {
+    margin-top: 5%;
+    text-align: center;
+    font-size: 3em;
+}
+.Compte-client {
+    background: url('logos/route.jpg') no-repeat;
+    color: white;
+}
+
+.Compte-listeVoitures{
+    color:black;
+}
+.Compte-listeVoitures{
+    margin-top:3%;
+
+}
 /*************Merci*************************/
 /*************Footer*************************/
 
