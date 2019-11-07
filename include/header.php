@@ -12,6 +12,9 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap4.3.1.css" />
 
     <!--CSS-->
+	<link rel="stylesheet" type="text/css" href="css/styleDavid.css" />
+	<link rel="stylesheet" type="text/css" href="css/styleNico.css" />
+	<link rel="stylesheet" type="text/css" href="css/styleLoren.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css" />
 
 
